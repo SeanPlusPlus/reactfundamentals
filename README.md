@@ -17,4 +17,4 @@ npm install babel-loader babel-core babel-preset-es2015 babel-preset-react
 touch index.html App.js main.js webpack.config.js
 ```
 
-next video: https://egghead.io/lessons/react-owner-ownee-relationship
+next video: https://egghead.io/lessons/react-accessing-child-properties
