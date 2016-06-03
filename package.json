@@ -4,7 +4,7 @@
   "description": "https://egghead.io/lessons/react-react-fundamentals-development-environment-setup?series=react-fundamentals",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
